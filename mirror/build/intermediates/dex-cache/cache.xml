@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\encia\.android\build-cache\40cad1d8f2803ccbc0c4a037c6cb0d4374559a46\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1dc79a0a71b679034c9aa41f983f836a5652d8b9">
+        <dex dex="C:\Users\encia\Downloads\mirror\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_390e79ad023df26e6e820e444bb06a70a2ec7c38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\encia\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\encia\Downloads\mirror\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_a9393a9beed81b704ac9c27c5f9b0aac20dfc607\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\encia\.android\build-cache\fa54caa1c23fca9747147a36936c5f6f1d532aa7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\encia\Downloads\mirror\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a424c21150066f6526b33ff875137d7ea19b7c9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\encia\Downloads\mirror\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\encia\Downloads\mirror\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_40d60d4886e2e0e290ccfa4a5f11ad3c3ec72051\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\encia\.gradle\caches\modules-2\files-2.1\org.java-websocket\Java-WebSocket\1.3.4\55cd7147462307abb6f83f73b291e4ae53906dfa\Java-WebSocket-1.3.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="55cd7147462307abb6f83f73b291e4ae53906dfa">
+        <dex dex="C:\Users\encia\Downloads\mirror\app\build\intermediates\transforms\dex\debug\folders\1000\10\Java-WebSocket-1.3.4_3e14ad3e697bc7b42440748105da47ee532369d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\encia\.android\build-cache\d542c41515c3bf1aa79ed02c1b0adbd8655d1d26\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\encia\Downloads\mirror\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2f4531491f27cc1caf428c0caf94f5d91c6d9876\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\encia\Downloads\mirror\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="C:\Users\encia\Downloads\mirror\app\build\intermediates\transforms\dex\debug\folders\1000\2\YouTubeAndroidPlayerApi_3420648349b43ff5f072ade14976fc8693b90931\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\encia\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.18\38da306aafee11459cd935a01d2c92a98dc670a4\library-1.0.18.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="38da306aafee11459cd935a01d2c92a98dc670a4">
+        <dex dex="C:\Users\encia\Downloads\mirror\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-1.0.18_b57ec0f94b9902e6d26668bf9e762c19e15aae41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\encia\Downloads\mirror\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e08f51feb7d9026f913df426c4bd0540c8b392d9">
+        <dex dex="C:\Users\encia\Downloads\mirror\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c175009491bd5ffbbffe05f2e2a4e299d1510546\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\encia\.gradle\caches\modules-2\files-2.1\com.nanohttpd\nanohttpd\2.1.1\82595b0b3190c8bdd988f307346e6edec9c09b72\nanohttpd-2.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="82595b0b3190c8bdd988f307346e6edec9c09b72">
+        <dex dex="C:\Users\encia\Downloads\mirror\app\build\intermediates\transforms\dex\debug\folders\1000\10\nanohttpd-2.1.1_1f697548406b4cc4ea19b03d8e13f9e5327ce92c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\encia\.android\build-cache\d91d0e7951f2eba5c3e8236b6547530553b47163\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\encia\Downloads\mirror\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0ecacf5712041c30f7c76e2319033d632b07c05f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\encia\.android\build-cache\962b1c09d187e8736b5c3702da15211dd2957b04\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\encia\Downloads\mirror\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f6b8384d33f0cf3f00f6abc0a22e770d36bbf1ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\encia\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\encia\Downloads\mirror\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_3fcdd62acb5978e6112b10e555a1c0f1464fc9ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\encia\.gradle\caches\modules-2\files-2.1\com.nanohttpd\nanohttpd-webserver\2.1.1\bf117a262c04dfc3aac2c5d3087c439a22f960c9\nanohttpd-webserver-2.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf117a262c04dfc3aac2c5d3087c439a22f960c9">
+        <dex dex="C:\Users\encia\Downloads\mirror\app\build\intermediates\transforms\dex\debug\folders\1000\10\nanohttpd-webserver-2.1.1_2c0f87f50b576762547ddf3598fbd058c2088c39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\encia\.android\build-cache\4ac4749ce72c9e2c1a83982fa0ddf220b09035ba\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\encia\Downloads\mirror\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7c1f3c9c21a3b476884b698642e4c174a18f8f7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\encia\.android\build-cache\11de297ca4e2fe181b950aa0a820b41f049fdb07\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\encia\Downloads\mirror\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5ce4061ea9ff9fe56d38706105fd314d9bec41a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\encia\.android\build-cache\518e02ad1dc66d865fe61795b5e90b4ba07a8e1f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\encia\Downloads\mirror\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0edd019e41f4f72979952fdbd49e295ad55cb314\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\encia\.android\build-cache\5d0037996b19e757e01d1ec15d9d20507937d26f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\encia\Downloads\mirror\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_44d00b3f0f8a701dffbe1fc1ca3df55d961b2443\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\encia\.android\build-cache\2f1a57faca0b55d6a1ad182cbea0a33cc91ee83a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\encia\Downloads\mirror\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_50e6bf4b57014ddd7d77cc970e1b1e207f874d1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\encia\.android\build-cache\e1314eaa27c7b78826db41e2a784398822ce3a9b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\encia\Downloads\mirror\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_19ec154c72bee2b0bbe029c44fc0c06b5f9d44a2\classes.dex" />
+    </item>
+
+</items>
